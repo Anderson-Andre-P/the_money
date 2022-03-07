@@ -49,7 +49,7 @@
 
 ## :link: Demo
 
-![Demo](/Demo.png)
+![Demo](/the-money.png)
 
 <br>
 
